@@ -1,0 +1,23 @@
+{
+"bot_token": "9006772227:AAFd_4wME4FDSfifj8PIk_4fPp5qEk9ChJA",
+"admin_id": 7758917200,
+"owner_username": "@ayushcontact_bot",
+"server_url": "https://shopping-discount.onrender.com",
+"channels": [
+{
+"name": "Channel 1",
+"username": "@Kpl954_DIxFmMzA1",
+"url": "https://t.me/+Kpl954_DIxFmMzA1"
+},
+{
+"name": "Channel 2",
+"username": "@Ha4king_Tools",
+"url": "https://t.me/Ha4king_Tools"
+}
+],
+"group": {
+"name": "Chat Group",
+"username": "@AYU_X_POOKIES",
+"url": "https://t.me/AYU_X_POOKIES"
+}
+}
