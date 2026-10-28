@@ -1,0 +1,23 @@
+{
+"bot_token": "9006772227:AAFd_4wME4FDSfifj8PIk_4fPp5qEk9ChJA",
+"admin_id": 7758917200,
+"owner_username": "@LORD_ITACHI",
+"server_url": "https://shopping-discount.onrender.com",
+"channels": [
+{
+"name": "Ayush Tools",
+"username": "@Ayush_Hackz",
+"url": "https://t.me/Ayush_Hackz"
+},
+{
+"name": "Ayush Cyber Updates",
+"username": "@Ayush_Cyber_Updates",
+"url": "https://t.me/Ayush_Cyber_Updates"
+}
+],
+"group": {
+"name": "Ayush Hackers Community",
+"username": "",
+"url": "https://t.me/+6BNH35eF4pM4Mjk1"
+}
+}
