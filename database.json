@@ -1,0 +1,25 @@
+{
+    "users": {
+        "7758917200": {
+            "tokens": 0,
+            "plan": "free",
+            "expiry": null,
+            "username": "@GOD_AYUSH",
+            "name": "\u23e4\u035f\u035e\u035f\ud835\ude70\u062d\u20df\ud835\ude73.\u0334\u030b\u0352\u034b\u0312\u032c\u0330\u0354\u032a\u0316\u0348\u0323\u0317\u0354\u20dd\ud835\ude82\u0644\ud835\ude7c\u2070\u2075\u00b9"
+        },
+        "7758917200": {
+            "tokens": 96,
+            "plan": "unlimited",
+            "expiry": "2026-11-02 16:18:59",
+            "username": "No Username",
+            "name": "...."
+        }
+    },
+    "redeem_codes": {
+        "TOK-76LVI4OT": {
+            "type": "token",
+            "value": 1,
+            "uses_left": 9
+        }
+    }
+}}
